@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">My name is ABDALLAH MARRA and I'm I am a passionate back-end developer with one year of experience in creating and troubleshooting applications. My journey in programming has ignited a deep interest in back-end development, and I'm continuously striving to enhance my skills., from morocco.<br><br>✨ Creating bugs for 1 year now.<br>📚 Currently focused on mastering back-end technologies, I believe that learning never ends, and I am committed to expanding my knowledge and expertise.<br>🎯 Goals: continual improvement as a backend developer, striving to master the craft every day</p>
+<p align="center">My name is ABDALLAH MARRA and I am a passionate back-end developer with one year of experience in creating and troubleshooting applications. My journey in programming has ignited a deep interest in back-end development, and I'm continuously striving to enhance my skills., from morocco.<br><br>✨ Creating bugs for 1 year now.<br>📚 Currently focused on mastering back-end technologies, I believe that learning never ends, and I am committed to expanding my knowledge and expertise.<br>🎯 Goals: continual improvement as a backend developer, striving to master the craft every day</p>
 
 ###
 
