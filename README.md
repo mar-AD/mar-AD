@@ -6,7 +6,14 @@
 
 ###
 
-<p align="center">My name is ABDALLAH MARRA, from morocco. and I am a passionate back-end developer with one year of experience in creating and troubleshooting applications. My journey in programming has ignited a deep interest in back-end development, and I'm continuously striving to enhance my skills.<br><br>✨ Creating bugs for 1 year now.<br>📚 Currently focused on mastering back-end technologies, I believe that learning never ends, and I am committed to expanding my knowledge and expertise.<br>🎯 Goals: continual improvement as a backend developer, striving to master the craft every day</p>
+<p align="center">
+  Hello! I'm <strong>Abdallah Marra</strong> from Morocco, a dedicated back-end developer with a strong focus on Node.js. With one year of hands-on experience in building and debugging applications, my journey has fueled a deep passion for back-end development. I'm driven to master the core technologies behind the scenes of every application.<br><br>
+  
+  ✨ Proudly creating and fixing bugs for a year.<br>
+  📚 Focused on honing my back-end expertise, I view learning as a lifelong journey and am constantly expanding my skills and knowledge.<br>
+  🎯 Goals: to grow each day as a Node.js back-end developer, continuously improving and striving for excellence in my craft.
+</p>
+
 
 ###
 
