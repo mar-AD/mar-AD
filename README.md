@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  Hello! I'm <strong>Abdallah Marra</strong> from Morocco, a dedicated back-end developer with a strong focus on Node.js. With one year of hands-on experience in building and debugging applications, my journey has fueled a deep passion for back-end development. I'm driven to master the core technologies behind the scenes of every application.<br><br>
+  Hello! I'm <strong>Abdallah Marra</strong> from Morocco, a dedicated MERN stack developer with a strong focus on back-end (Node.js). With one year of hands-on experience in building and debugging applications, my journey has fueled a deep passion for back-end development. I'm driven to master the core technologies behind the scenes of every application.<br><br>
   
   ✨ Proudly creating and fixing bugs for a year.<br>
   📚 Focused on honing my back-end expertise, I view learning as a lifelong journey and am constantly expanding my skills and knowledge.<br>
